@@ -1,7 +1,7 @@
 ## Google-HashCode-2020
 
 ### Solution for the Practice Round of Google Hash Code 2020 - Score: 1,505,004,616
-Check the [problem statement](Problem/slice.pdf)
+Check the [problem statement](practise-round/practise-problem.pdf)
 
 <img src="practise-round/pizza.png">
 
